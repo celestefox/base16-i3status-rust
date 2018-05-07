@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Heath Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f7f3f7"
+idle_fg = "#695d69"
+info_bg = "#159393"
+info_fg = "#f7f3f7"
+good_bg = "#918b3b"
+good_fg = "#f7f3f7"
+warning_bg = "#bb8a35"
+warning_fg = "#f7f3f7"
+critical_bg = "#ca402b"
+critical_fg = "#f7f3f7"
+# The rest of the theme settings are left at default.

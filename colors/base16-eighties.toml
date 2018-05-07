@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Eighties by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2d2d2d"
+idle_fg = "#d3d0c8"
+info_bg = "#66cccc"
+info_fg = "#2d2d2d"
+good_bg = "#99cc99"
+good_fg = "#2d2d2d"
+warning_bg = "#ffcc66"
+warning_fg = "#2d2d2d"
+critical_bg = "#f2777a"
+critical_fg = "#2d2d2d"
+# The rest of the theme settings are left at default.

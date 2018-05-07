@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Lakeside Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ebf8ff"
+idle_fg = "#516d7b"
+info_bg = "#2d8f6f"
+info_fg = "#ebf8ff"
+good_bg = "#568c3b"
+good_fg = "#ebf8ff"
+warning_bg = "#8a8a0f"
+warning_fg = "#ebf8ff"
+critical_bg = "#d22d72"
+critical_fg = "#ebf8ff"
+# The rest of the theme settings are left at default.

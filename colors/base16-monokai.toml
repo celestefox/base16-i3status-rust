@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Monokai by Wimer Hazenberg (http://www.monokai.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#272822"
+idle_fg = "#f8f8f2"
+info_bg = "#a1efe4"
+info_fg = "#272822"
+good_bg = "#a6e22e"
+good_fg = "#272822"
+warning_bg = "#f4bf75"
+warning_fg = "#272822"
+critical_bg = "#f92672"
+critical_fg = "#272822"
+# The rest of the theme settings are left at default.

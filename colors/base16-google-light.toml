@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Google Light by Seth Wright (http://sethawright.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ffffff"
+idle_fg = "#373b41"
+info_bg = "#3971ED"
+info_fg = "#ffffff"
+good_bg = "#198844"
+good_fg = "#ffffff"
+warning_bg = "#FBA922"
+warning_fg = "#ffffff"
+critical_bg = "#CC342B"
+critical_fg = "#ffffff"
+# The rest of the theme settings are left at default.

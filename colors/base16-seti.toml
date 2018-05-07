@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Seti UI by 
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#151718"
+idle_fg = "#d6d6d6"
+info_bg = "#55dbbe"
+info_fg = "#151718"
+good_bg = "#9fca56"
+good_fg = "#151718"
+warning_bg = "#e6cd69"
+warning_fg = "#151718"
+critical_bg = "#Cd3f45"
+critical_fg = "#151718"
+# The rest of the theme settings are left at default.

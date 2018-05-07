@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Dracula by Mike Barkmin (http://github.com/mikebarkmin) based on Dracula Theme (http://github.com/dracula)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#282936"
+idle_fg = "#e9e9f4"
+info_bg = "#a1efe4"
+info_fg = "#282936"
+good_bg = "#00f769"
+good_fg = "#282936"
+warning_bg = "#ebff87"
+warning_fg = "#282936"
+critical_bg = "#ea51b2"
+critical_fg = "#282936"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# OceanicNext by https://github.com/voronianski/oceanic-next-color-scheme
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1B2B34"
+idle_fg = "#C0C5CE"
+info_bg = "#5FB3B3"
+info_fg = "#1B2B34"
+good_bg = "#99C794"
+good_fg = "#1B2B34"
+warning_bg = "#FAC863"
+warning_fg = "#1B2B34"
+critical_bg = "#EC5f67"
+critical_fg = "#1B2B34"
+# The rest of the theme settings are left at default.

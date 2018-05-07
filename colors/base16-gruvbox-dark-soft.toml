@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Gruvbox dark, soft by Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#32302f"
+idle_fg = "#d5c4a1"
+info_bg = "#8ec07c"
+info_fg = "#32302f"
+good_bg = "#b8bb26"
+good_fg = "#32302f"
+warning_bg = "#fabd2f"
+warning_fg = "#32302f"
+critical_bg = "#fb4934"
+critical_fg = "#32302f"
+# The rest of the theme settings are left at default.

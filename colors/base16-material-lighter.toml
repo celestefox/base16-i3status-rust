@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Material Lighter by Nate Peterson
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#FAFAFA"
+idle_fg = "#80CBC4"
+info_bg = "#39ADB5"
+info_fg = "#FAFAFA"
+good_bg = "#91B859"
+good_fg = "#FAFAFA"
+warning_bg = "#FFB62C"
+warning_fg = "#FAFAFA"
+critical_bg = "#FF5370"
+critical_fg = "#FAFAFA"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Shapeshifter by Tyler Benziger (http://tybenz.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f9f9f9"
+idle_fg = "#102015"
+info_bg = "#23edda"
+info_fg = "#f9f9f9"
+good_bg = "#0ed839"
+good_fg = "#f9f9f9"
+warning_bg = "#dddd13"
+warning_fg = "#f9f9f9"
+critical_bg = "#e92f2f"
+critical_fg = "#f9f9f9"
+# The rest of the theme settings are left at default.

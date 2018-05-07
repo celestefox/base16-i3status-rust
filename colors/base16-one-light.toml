@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# One Light by Daniel Pfeifer (http://github.com/purpleKarrot)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fafafa"
+idle_fg = "#383a42"
+info_bg = "#0184bc"
+info_fg = "#fafafa"
+good_bg = "#50a14f"
+good_fg = "#fafafa"
+warning_bg = "#c18401"
+warning_fg = "#fafafa"
+critical_bg = "#ca1243"
+critical_fg = "#fafafa"
+# The rest of the theme settings are left at default.

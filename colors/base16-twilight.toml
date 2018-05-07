@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Twilight by David Hart (https://github.com/hartbit)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1e1e1e"
+idle_fg = "#a7a7a7"
+info_bg = "#afc4db"
+info_fg = "#1e1e1e"
+good_bg = "#8f9d6a"
+good_fg = "#1e1e1e"
+warning_bg = "#f9ee98"
+warning_fg = "#1e1e1e"
+critical_bg = "#cf6a4c"
+critical_fg = "#1e1e1e"
+# The rest of the theme settings are left at default.

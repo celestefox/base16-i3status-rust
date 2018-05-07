@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Savanna Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ecf4ee"
+idle_fg = "#526057"
+info_bg = "#1c9aa0"
+info_fg = "#ecf4ee"
+good_bg = "#489963"
+good_fg = "#ecf4ee"
+warning_bg = "#a07e3b"
+warning_fg = "#ecf4ee"
+critical_bg = "#b16139"
+critical_fg = "#ecf4ee"
+# The rest of the theme settings are left at default.

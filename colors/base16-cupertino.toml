@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Cupertino by Defman21
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ffffff"
+idle_fg = "#404040"
+info_bg = "#318495"
+info_fg = "#ffffff"
+good_bg = "#007400"
+good_fg = "#ffffff"
+warning_bg = "#826b28"
+warning_fg = "#ffffff"
+critical_bg = "#c41a15"
+critical_fg = "#ffffff"
+# The rest of the theme settings are left at default.

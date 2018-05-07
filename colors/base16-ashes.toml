@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Ashes by Jannik Siebert (https://github.com/janniks)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1C2023"
+idle_fg = "#C7CCD1"
+info_bg = "#95AEC7"
+info_fg = "#1C2023"
+good_bg = "#95C7AE"
+good_fg = "#1C2023"
+warning_bg = "#AEC795"
+warning_fg = "#1C2023"
+critical_bg = "#C7AE95"
+critical_fg = "#1C2023"
+# The rest of the theme settings are left at default.

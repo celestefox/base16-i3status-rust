@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Pop by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#d0d0d0"
+info_bg = "#00aabb"
+info_fg = "#000000"
+good_bg = "#37b349"
+good_fg = "#000000"
+warning_bg = "#f8ca12"
+warning_fg = "#000000"
+critical_bg = "#eb008a"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

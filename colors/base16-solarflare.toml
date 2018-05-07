@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Solar Flare by Chuck Harmston (https://chuck.harmston.ch)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#18262F"
+idle_fg = "#A6AFB8"
+info_bg = "#52CBB0"
+info_fg = "#18262F"
+good_bg = "#7CC844"
+good_fg = "#18262F"
+warning_bg = "#E4B51C"
+warning_fg = "#18262F"
+critical_bg = "#EF5253"
+critical_fg = "#18262F"
+# The rest of the theme settings are left at default.

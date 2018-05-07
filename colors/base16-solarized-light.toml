@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Solarized Light by Ethan Schoonover (http://ethanschoonover.com/solarized)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fdf6e3"
+idle_fg = "#586e75"
+info_bg = "#2aa198"
+info_fg = "#fdf6e3"
+good_bg = "#859900"
+good_fg = "#fdf6e3"
+warning_bg = "#b58900"
+warning_fg = "#fdf6e3"
+critical_bg = "#dc322f"
+critical_fg = "#fdf6e3"
+# The rest of the theme settings are left at default.

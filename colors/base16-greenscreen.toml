@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Green Screen by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#001100"
+idle_fg = "#00bb00"
+info_bg = "#005500"
+info_fg = "#001100"
+good_bg = "#00bb00"
+good_fg = "#001100"
+warning_bg = "#007700"
+warning_fg = "#001100"
+critical_bg = "#007700"
+critical_fg = "#001100"
+# The rest of the theme settings are left at default.

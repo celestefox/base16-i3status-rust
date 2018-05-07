@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Summerfruit Light by Christopher Corley (http://christop.club/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#FFFFFF"
+idle_fg = "#101010"
+info_bg = "#1FAAAA"
+info_fg = "#FFFFFF"
+good_bg = "#00C918"
+good_fg = "#FFFFFF"
+warning_bg = "#ABA800"
+warning_fg = "#FFFFFF"
+critical_bg = "#FF0086"
+critical_fg = "#FFFFFF"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Porple by Niek den Breeje (https://github.com/AuditeMarlow)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#292c36"
+idle_fg = "#d8d8d8"
+info_bg = "#64878f"
+info_fg = "#292c36"
+good_bg = "#95c76f"
+good_fg = "#292c36"
+warning_bg = "#efa16b"
+warning_fg = "#292c36"
+critical_bg = "#f84547"
+critical_fg = "#292c36"
+# The rest of the theme settings are left at default.

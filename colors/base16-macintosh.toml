@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Macintosh by Rebecca Bettencourt (http://www.kreativekorp.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#c0c0c0"
+info_bg = "#02abea"
+info_fg = "#000000"
+good_bg = "#1fb714"
+good_fg = "#000000"
+warning_bg = "#fbf305"
+warning_fg = "#000000"
+critical_bg = "#dd0907"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

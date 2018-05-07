@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Outrun Dark by Hugo Delahousse (http://github.com/hugodelahousse/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#00002A"
+idle_fg = "#D0D0FA"
+info_bg = "#0EF0F0"
+info_fg = "#00002A"
+good_bg = "#59F176"
+good_fg = "#00002A"
+warning_bg = "#F3E877"
+warning_fg = "#00002A"
+critical_bg = "#FF4242"
+critical_fg = "#00002A"
+# The rest of the theme settings are left at default.

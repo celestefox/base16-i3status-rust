@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# PhD by Hennig Hasemann (http://leetless.de/vim.html)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#061229"
+idle_fg = "#b8bbc2"
+info_bg = "#72b9bf"
+info_fg = "#061229"
+good_bg = "#99bf52"
+good_fg = "#061229"
+warning_bg = "#fbd461"
+warning_fg = "#061229"
+critical_bg = "#d07346"
+critical_fg = "#061229"
+# The rest of the theme settings are left at default.

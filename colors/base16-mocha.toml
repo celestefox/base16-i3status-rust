@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Mocha by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#3B3228"
+idle_fg = "#d0c8c6"
+info_bg = "#7bbda4"
+info_fg = "#3B3228"
+good_bg = "#beb55b"
+good_fg = "#3B3228"
+warning_bg = "#f4bc87"
+warning_fg = "#3B3228"
+critical_bg = "#cb6077"
+critical_fg = "#3B3228"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Embers by Jannik Siebert (https://github.com/janniks)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#16130F"
+idle_fg = "#A39A90"
+info_bg = "#576D82"
+info_fg = "#16130F"
+good_bg = "#57826D"
+good_fg = "#16130F"
+warning_bg = "#6D8257"
+warning_fg = "#16130F"
+critical_bg = "#826D57"
+critical_fg = "#16130F"
+# The rest of the theme settings are left at default.

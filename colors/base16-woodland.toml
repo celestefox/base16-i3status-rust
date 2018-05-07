@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Woodland by Jay Cornwall (https://jcornwall.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#231e18"
+idle_fg = "#cabcb1"
+info_bg = "#6eb958"
+info_fg = "#231e18"
+good_bg = "#b7ba53"
+good_fg = "#231e18"
+warning_bg = "#e0ac16"
+warning_fg = "#231e18"
+critical_bg = "#d35c5c"
+critical_fg = "#231e18"
+# The rest of the theme settings are left at default.

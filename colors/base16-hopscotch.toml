@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Hopscotch by Jan T. Sott
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#322931"
+idle_fg = "#b9b5b8"
+info_bg = "#149b93"
+info_fg = "#322931"
+good_bg = "#8fc13e"
+good_fg = "#322931"
+warning_bg = "#fdcc59"
+warning_fg = "#322931"
+critical_bg = "#dd464c"
+critical_fg = "#322931"
+# The rest of the theme settings are left at default.

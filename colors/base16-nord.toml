@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Nord by arcticicestudio
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2E3440"
+idle_fg = "#E5E9F0"
+info_bg = "#D08770"
+info_fg = "#2E3440"
+good_bg = "#BF616A"
+good_fg = "#2E3440"
+warning_bg = "#5E81AC"
+warning_fg = "#2E3440"
+critical_bg = "#88C0D0"
+critical_fg = "#2E3440"
+# The rest of the theme settings are left at default.

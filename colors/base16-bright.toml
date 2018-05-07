@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Bright by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#e0e0e0"
+info_bg = "#76c7b7"
+info_fg = "#000000"
+good_bg = "#a1c659"
+good_fg = "#000000"
+warning_bg = "#fda331"
+warning_fg = "#000000"
+critical_bg = "#fb0120"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

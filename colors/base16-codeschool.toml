@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Codeschool by blockloop
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#232c31"
+idle_fg = "#9ea7a6"
+info_bg = "#b02f30"
+info_fg = "#232c31"
+good_bg = "#237986"
+good_fg = "#232c31"
+warning_bg = "#a03b1e"
+warning_fg = "#232c31"
+critical_bg = "#2a5491"
+critical_fg = "#232c31"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Plateau Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f4ecec"
+idle_fg = "#585050"
+info_bg = "#5485b6"
+info_fg = "#f4ecec"
+good_bg = "#4b8b8b"
+good_fg = "#f4ecec"
+warning_bg = "#a06e3b"
+warning_fg = "#f4ecec"
+critical_bg = "#ca4949"
+critical_fg = "#f4ecec"
+# The rest of the theme settings are left at default.

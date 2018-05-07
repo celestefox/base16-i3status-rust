@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# OneDark by Lalit Magant (http://github.com/tilal6991)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#282c34"
+idle_fg = "#abb2bf"
+info_bg = "#56b6c2"
+info_fg = "#282c34"
+good_bg = "#98c379"
+good_fg = "#282c34"
+warning_bg = "#e5c07b"
+warning_fg = "#282c34"
+critical_bg = "#e06c75"
+critical_fg = "#282c34"
+# The rest of the theme settings are left at default.

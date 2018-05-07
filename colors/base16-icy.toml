@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Icy Dark by icyphox (https://icyphox.ga)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#021012"
+idle_fg = "#095b67"
+info_bg = "#26c6da"
+info_fg = "#021012"
+good_bg = "#4dd0e1"
+good_fg = "#021012"
+warning_bg = "#80deea"
+warning_fg = "#021012"
+critical_bg = "#16c1d9"
+critical_fg = "#021012"
+# The rest of the theme settings are left at default.

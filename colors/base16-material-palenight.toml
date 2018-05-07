@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Material Palenight by Nate Peterson
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#292D3E"
+idle_fg = "#959DCB"
+info_bg = "#89DDFF"
+info_fg = "#292D3E"
+good_bg = "#C3E88D"
+good_fg = "#292D3E"
+warning_bg = "#FFCB6B"
+warning_fg = "#292D3E"
+critical_bg = "#F07178"
+critical_fg = "#292D3E"
+# The rest of the theme settings are left at default.

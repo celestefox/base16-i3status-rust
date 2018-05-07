@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Materia by Defman21
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#263238"
+idle_fg = "#CDD3DE"
+info_bg = "#80CBC4"
+info_fg = "#263238"
+good_bg = "#8BD649"
+good_fg = "#263238"
+warning_bg = "#FFCC00"
+warning_fg = "#263238"
+critical_bg = "#EC5F67"
+critical_fg = "#263238"
+# The rest of the theme settings are left at default.

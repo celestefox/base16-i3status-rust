@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Pico by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#000000"
+idle_fg = "#5f574f"
+info_bg = "#29adff"
+info_fg = "#000000"
+good_bg = "#00e756"
+good_fg = "#000000"
+warning_bg = "#fff024"
+warning_fg = "#000000"
+critical_bg = "#ff004d"
+critical_fg = "#000000"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# 3024 by Jan T. Sott (http://github.com/idleberg)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#090300"
+idle_fg = "#a5a2a2"
+info_bg = "#b5e4f4"
+info_fg = "#090300"
+good_bg = "#01a252"
+good_fg = "#090300"
+warning_bg = "#fded02"
+warning_fg = "#090300"
+critical_bg = "#db2d20"
+critical_fg = "#090300"
+# The rest of the theme settings are left at default.

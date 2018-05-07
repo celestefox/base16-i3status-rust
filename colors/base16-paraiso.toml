@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Paraiso by Jan T. Sott
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2f1e2e"
+idle_fg = "#a39e9b"
+info_bg = "#5bc4bf"
+info_fg = "#2f1e2e"
+good_bg = "#48b685"
+good_fg = "#2f1e2e"
+warning_bg = "#fec418"
+warning_fg = "#2f1e2e"
+critical_bg = "#ef6155"
+critical_fg = "#2f1e2e"
+# The rest of the theme settings are left at default.

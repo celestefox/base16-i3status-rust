@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Tomorrow Night by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1d1f21"
+idle_fg = "#c5c8c6"
+info_bg = "#8abeb7"
+info_fg = "#1d1f21"
+good_bg = "#b5bd68"
+good_fg = "#1d1f21"
+warning_bg = "#f0c674"
+warning_fg = "#1d1f21"
+critical_bg = "#cc6666"
+critical_fg = "#1d1f21"
+# The rest of the theme settings are left at default.

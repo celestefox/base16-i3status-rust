@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Unikitty Light by Josh W Lewis (@joshwlewis)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#ffffff"
+idle_fg = "#6c696e"
+info_bg = "#149bda"
+info_fg = "#ffffff"
+good_bg = "#17ad98"
+good_fg = "#ffffff"
+warning_bg = "#dc8a0e"
+warning_fg = "#ffffff"
+critical_bg = "#d8137f"
+critical_fg = "#ffffff"
+# The rest of the theme settings are left at default.

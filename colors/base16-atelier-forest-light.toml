@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Forest Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f1efee"
+idle_fg = "#68615e"
+info_bg = "#3d97b8"
+info_fg = "#f1efee"
+good_bg = "#7b9726"
+good_fg = "#f1efee"
+warning_bg = "#c38418"
+warning_fg = "#f1efee"
+critical_bg = "#f22c40"
+critical_fg = "#f1efee"
+# The rest of the theme settings are left at default.

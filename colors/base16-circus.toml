@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Circus by Stephan Boyer (https://github.com/stepchowfun) and Esther Wang (https://github.com/ewang12)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#191919"
+idle_fg = "#a7a7a7"
+info_bg = "#4bb1a7"
+info_fg = "#191919"
+good_bg = "#84b97c"
+good_fg = "#191919"
+warning_bg = "#c3ba63"
+warning_fg = "#191919"
+critical_bg = "#dc657d"
+critical_fg = "#191919"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Apathy by Jannik Siebert (https://github.com/janniks)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#031A16"
+idle_fg = "#81B5AC"
+info_bg = "#963E4C"
+info_fg = "#031A16"
+good_bg = "#883E96"
+good_fg = "#031A16"
+warning_bg = "#3E4C96"
+warning_fg = "#031A16"
+critical_bg = "#3E9688"
+critical_fg = "#031A16"
+# The rest of the theme settings are left at default.

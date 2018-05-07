@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Darktooth by Jason Milkins (https://github.com/jasonm23)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1D2021"
+idle_fg = "#A89984"
+info_bg = "#8BA59B"
+info_fg = "#1D2021"
+good_bg = "#95C085"
+good_fg = "#1D2021"
+warning_bg = "#FAC03B"
+warning_fg = "#1D2021"
+critical_bg = "#FB543F"
+critical_fg = "#1D2021"
+# The rest of the theme settings are left at default.

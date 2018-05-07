@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Bespin by Jan T. Sott
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#28211c"
+idle_fg = "#8a8986"
+info_bg = "#afc4db"
+info_fg = "#28211c"
+good_bg = "#54be0d"
+good_fg = "#28211c"
+warning_bg = "#f9ee98"
+warning_fg = "#28211c"
+critical_bg = "#cf6a4c"
+critical_fg = "#28211c"
+# The rest of the theme settings are left at default.

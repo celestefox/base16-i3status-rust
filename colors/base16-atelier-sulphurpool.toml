@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Sulphurpool by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#202746"
+idle_fg = "#979db4"
+info_bg = "#22a2c9"
+info_fg = "#202746"
+good_bg = "#ac9739"
+good_fg = "#202746"
+warning_bg = "#c08b30"
+warning_fg = "#202746"
+critical_bg = "#c94922"
+critical_fg = "#202746"
+# The rest of the theme settings are left at default.

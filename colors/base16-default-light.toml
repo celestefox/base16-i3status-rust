@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Default Light by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f8f8f8"
+idle_fg = "#383838"
+info_bg = "#86c1b9"
+info_fg = "#f8f8f8"
+good_bg = "#a1b56c"
+good_fg = "#f8f8f8"
+warning_bg = "#f7ca88"
+warning_fg = "#f8f8f8"
+critical_bg = "#ab4642"
+critical_fg = "#f8f8f8"
+# The rest of the theme settings are left at default.

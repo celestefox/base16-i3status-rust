@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Mellow Purple by gidsi
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1e0528"
+idle_fg = "#ffeeff"
+info_bg = "#b900b1"
+info_fg = "#1e0528"
+good_bg = "#05cb0d"
+good_fg = "#1e0528"
+warning_bg = "#955ae7"
+warning_fg = "#1e0528"
+critical_bg = "#00d9e9"
+critical_fg = "#1e0528"
+# The rest of the theme settings are left at default.

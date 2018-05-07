@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Rebecca by Victor Borja (http://github.com/vic) based on Rebecca Theme (http://github.com/vic/rebecca-theme)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#292a44"
+idle_fg = "#f1eff8"
+info_bg = "#8eaee0"
+info_fg = "#292a44"
+good_bg = "#6dfedf"
+good_fg = "#292a44"
+warning_bg = "#ae81ff"
+warning_fg = "#292a44"
+critical_bg = "#a0a0c5"
+critical_fg = "#292a44"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Cave by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#19171c"
+idle_fg = "#8b8792"
+info_bg = "#398bc6"
+info_fg = "#19171c"
+good_bg = "#2a9292"
+good_fg = "#19171c"
+warning_bg = "#a06e3b"
+warning_fg = "#19171c"
+critical_bg = "#be4678"
+critical_fg = "#19171c"
+# The rest of the theme settings are left at default.

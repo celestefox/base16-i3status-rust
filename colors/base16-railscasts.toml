@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Railscasts by Ryan Bates (http://railscasts.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2b2b2b"
+idle_fg = "#e6e1dc"
+info_bg = "#519f50"
+info_fg = "#2b2b2b"
+good_bg = "#a5c261"
+good_fg = "#2b2b2b"
+warning_bg = "#ffc66d"
+warning_fg = "#2b2b2b"
+critical_bg = "#da4939"
+critical_fg = "#2b2b2b"
+# The rest of the theme settings are left at default.

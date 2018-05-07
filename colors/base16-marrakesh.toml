@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Marrakesh by Alexandre Gavioli (http://github.com/Alexx2/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#201602"
+idle_fg = "#948e48"
+info_bg = "#75a738"
+info_fg = "#201602"
+good_bg = "#18974e"
+good_fg = "#201602"
+warning_bg = "#a88339"
+warning_fg = "#201602"
+critical_bg = "#c35359"
+critical_fg = "#201602"
+# The rest of the theme settings are left at default.

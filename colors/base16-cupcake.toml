@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Cupcake by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#fbf1f2"
+idle_fg = "#8b8198"
+info_bg = "#69A9A7"
+info_fg = "#fbf1f2"
+good_bg = "#A3B367"
+good_fg = "#fbf1f2"
+warning_bg = "#DCB16C"
+warning_fg = "#fbf1f2"
+critical_bg = "#D57E85"
+critical_fg = "#fbf1f2"
+# The rest of the theme settings are left at default.

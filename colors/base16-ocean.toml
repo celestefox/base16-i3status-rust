@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Ocean by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#2b303b"
+idle_fg = "#c0c5ce"
+info_bg = "#96b5b4"
+info_fg = "#2b303b"
+good_bg = "#a3be8c"
+good_fg = "#2b303b"
+warning_bg = "#ebcb8b"
+warning_fg = "#2b303b"
+critical_bg = "#bf616a"
+critical_fg = "#2b303b"
+# The rest of the theme settings are left at default.

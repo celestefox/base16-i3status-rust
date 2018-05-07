@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Dune by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#20201d"
+idle_fg = "#a6a28c"
+info_bg = "#1fad83"
+info_fg = "#20201d"
+good_bg = "#60ac39"
+good_fg = "#20201d"
+warning_bg = "#ae9513"
+warning_fg = "#20201d"
+critical_bg = "#d73737"
+critical_fg = "#20201d"
+# The rest of the theme settings are left at default.

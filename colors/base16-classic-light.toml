@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Classic Light by Jason Heeris (http://heeris.id.au)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#F5F5F5"
+idle_fg = "#303030"
+info_bg = "#75B5AA"
+info_fg = "#F5F5F5"
+good_bg = "#90A959"
+good_fg = "#F5F5F5"
+warning_bg = "#F4BF75"
+warning_fg = "#F5F5F5"
+critical_bg = "#AC4142"
+critical_fg = "#F5F5F5"
+# The rest of the theme settings are left at default.

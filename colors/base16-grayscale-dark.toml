@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Grayscale Dark by Alexandre Gavioli (https://github.com/Alexx2/)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#101010"
+idle_fg = "#b9b9b9"
+info_bg = "#868686"
+info_fg = "#101010"
+good_bg = "#8e8e8e"
+good_fg = "#101010"
+warning_bg = "#a0a0a0"
+warning_fg = "#101010"
+critical_bg = "#7c7c7c"
+critical_fg = "#101010"
+# The rest of the theme settings are left at default.

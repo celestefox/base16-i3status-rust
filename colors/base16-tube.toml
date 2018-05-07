@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# London Tube by Jan T. Sott
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#231f20"
+idle_fg = "#d9d8d8"
+info_bg = "#85cebc"
+info_fg = "#231f20"
+good_bg = "#00853e"
+good_fg = "#231f20"
+warning_bg = "#ffd204"
+warning_fg = "#231f20"
+critical_bg = "#ee2e24"
+critical_fg = "#231f20"
+# The rest of the theme settings are left at default.

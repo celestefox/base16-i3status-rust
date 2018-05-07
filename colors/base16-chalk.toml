@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Chalk by Chris Kempson (http://chriskempson.com)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#151515"
+idle_fg = "#d0d0d0"
+info_bg = "#12cfc0"
+info_fg = "#151515"
+good_bg = "#acc267"
+good_fg = "#151515"
+warning_bg = "#ddb26f"
+warning_fg = "#151515"
+critical_bg = "#fb9fb1"
+critical_fg = "#151515"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f7f9fb"
+idle_fg = "#405c79"
+info_bg = "#568bbf"
+info_fg = "#f7f9fb"
+good_bg = "#56bf8b"
+good_fg = "#f7f9fb"
+warning_bg = "#8bbf56"
+warning_fg = "#f7f9fb"
+critical_bg = "#bf8b56"
+critical_fg = "#f7f9fb"
+# The rest of the theme settings are left at default.

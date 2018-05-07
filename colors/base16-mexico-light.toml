@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Mexico Light by Sheldon Johnson
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f8f8f8"
+idle_fg = "#383838"
+info_bg = "#4b8093"
+info_fg = "#f8f8f8"
+good_bg = "#538947"
+good_fg = "#f8f8f8"
+warning_bg = "#f79a0e"
+warning_fg = "#f8f8f8"
+critical_bg = "#ab4642"
+critical_fg = "#f8f8f8"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Brewer by Timothée Poisot (http://github.com/tpoisot)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#0c0d0e"
+idle_fg = "#b7b8b9"
+info_bg = "#80b1d3"
+info_fg = "#0c0d0e"
+good_bg = "#31a354"
+good_fg = "#0c0d0e"
+warning_bg = "#dca060"
+warning_fg = "#0c0d0e"
+critical_bg = "#e31a1c"
+critical_fg = "#0c0d0e"
+# The rest of the theme settings are left at default.

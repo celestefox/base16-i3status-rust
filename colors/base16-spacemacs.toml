@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Spacemacs by Nasser Alshammari (https://github.com/nashamri/spacemacs-theme)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#1f2022"
+idle_fg = "#a3a3a3"
+info_bg = "#2d9574"
+info_fg = "#1f2022"
+good_bg = "#67b11d"
+good_fg = "#1f2022"
+warning_bg = "#b1951d"
+warning_fg = "#1f2022"
+critical_bg = "#f2241f"
+critical_fg = "#1f2022"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Zenburn by elnawe
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#3f3f3f"
+idle_fg = "#dcdccc"
+info_bg = "#93e0e3"
+info_fg = "#3f3f3f"
+good_bg = "#5f7f5f"
+good_fg = "#3f3f3f"
+warning_bg = "#e0cf9f"
+warning_fg = "#3f3f3f"
+critical_bg = "#dca3a3"
+critical_fg = "#3f3f3f"
+# The rest of the theme settings are left at default.

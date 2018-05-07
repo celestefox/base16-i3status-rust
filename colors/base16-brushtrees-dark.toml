@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Brush Trees Dark by Abraham White &lt;abelincoln.white@gmail.com&gt;
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#485867"
+idle_fg = "#B0C5C8"
+info_bg = "#86b3b3"
+info_fg = "#485867"
+good_bg = "#87b386"
+good_fg = "#485867"
+warning_bg = "#aab386"
+warning_fg = "#485867"
+critical_bg = "#b38686"
+critical_fg = "#485867"
+# The rest of the theme settings are left at default.

@@ -1,0 +1,19 @@
+# vi:syntax=toml
+
+# base16-i3status-rust (https://github.com/mystfox/base16-i3status-rust)
+# Atelier Estuary Light by Bram de Haan (http://atelierbramdehaan.nl)
+
+[theme]
+name = "solarized-dark"
+[theme.overrides]
+idle_bg = "#f4f3ec"
+idle_fg = "#5f5e4e"
+info_bg = "#5b9d48"
+info_fg = "#f4f3ec"
+good_bg = "#7d9726"
+good_fg = "#f4f3ec"
+warning_bg = "#a5980d"
+warning_fg = "#f4f3ec"
+critical_bg = "#ba6236"
+critical_fg = "#f4f3ec"
+# The rest of the theme settings are left at default.
